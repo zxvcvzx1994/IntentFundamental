@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">IntentFundamentals</string>
+    <string name="title_activity_my">MyActivity</string>
+    <string name="title_activity_implicit_intent">ImplicitIntent</string>
+</resources>
